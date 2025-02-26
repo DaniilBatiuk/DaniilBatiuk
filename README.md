@@ -1,5 +1,9 @@
 <h1 align="center">Hi  👋, I'm Daniil</h1>
-<p>I am a React developer from Ukraine. I am 21 years old. After school I started studying at the university at the Faculty of Computer Science. At the same time, I completed 2.5 years of training in the Academy of Step. Where I gained experience with many languages such as JavaScript, TypeScript, C#, C++, Java, PHP. That's where I learned about React. During the whole time of learning this framefork made more impression on me than all the others and I started to learn it. After Next.js 14 came out. Having at that time knowledge of React it was not difficult to understand the new framefork. At the moment my training at Step Academy is over and I am looking for a job. So who is interested in my technology stack and skills that can be seen in pinned projects - I will be glad to communicate).</p>
+<p>I am a React and Next.js developer from Ukraine. I am 22 years old. I graduated from university with a degree in Computer Science. At the same time, I completed 2.5 years of training at Step Academy, where I gained experience with many programming languages, such as JavaScript, TypeScript, C#, C++, Java, and PHP. That’s where I first learned about React.
+
+During my studies, this framework impressed me more than any other, so I decided to focus on learning it. When Next.js 14 was released, my existing knowledge of React made it easy to understand the new framework.
+
+Now I am looking for a job. If you are interested in my technology stack and skills, which you can see in my pinned projects, I would be happy to connect!</p>
 
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/DaniilBatiuk)**
 
@@ -13,13 +17,13 @@
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+      <br>Javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+      <br>Typescript
     </td>
         <td align="center" width="110" height="90">
       <a href="#debabin-stack">
@@ -37,57 +41,19 @@
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
-      <br>figma
+      <br>Figma
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
-      <br>git
+      <br>Git
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
-      <br>npm
-    </td>
-  </tr> 
-</table>
-
-> Testing
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
-      </a>
-      <br>rt library
-    </td>
-  </tr> 
-</table>
-
-> Code quality
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
-      </a>
-      <br>eslint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
+      <br>Npm
     </td>
   </tr> 
 </table>
@@ -110,11 +76,38 @@
     </td>
  <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+        <td align="center" width="110" height="90"> 
+           <a href="#debabin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
+    </td> 
     </td>
-     <td align="center" width="110" height="90">
+        <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="tailwind" />
+      </a>
+      <br>Tailwind
+    </td> 
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+      <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://bzpfw137bb.ufs.sh/f/xBbtd5hK4pZqN5AK3SxYmcj2rpiz7JyUqfd9CTv8B0oGkFuX" width="36" height="36" alt="Shadcn/ui" />
+      </a>
+      <br>Shadcn/ui
+    </td>
+  </tr> 
+    <tr>
+      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
@@ -132,21 +125,8 @@
       </a>
       <br>Webpack
     </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td> 
   </tr> 
-    <tr>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr> 
+     
 </table>
 
 > Backend
@@ -165,6 +145,12 @@
       </a>
       <br>Node JS
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Mongo DB" />
@@ -182,6 +168,56 @@
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
       </a>
       <br>Prisma
+    </td>
+  </tr> 
+</table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+      </a>
+      <br>Testing Library
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://bzpfw137bb.ufs.sh/f/xBbtd5hK4pZqMgJPOit8ODqrAvyu9sFfLNnSwaZUE46ijVG1" width="36" height="36" alt="Vitest" />
+      </a>
+      <br>Vitest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://bzpfw137bb.ufs.sh/f/xBbtd5hK4pZq9xWAoB9iuHqfFjDIswz0bWm34ad5YtJP8Lp1" width="36" height="36" alt="Storybook" />
+      </a>
+      <br>Storybook
+    </td>
+  </tr> 
+</table>
+
+> Code quality
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Prettier
     </td>
   </tr> 
 </table>
