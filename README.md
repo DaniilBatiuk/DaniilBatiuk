@@ -169,6 +169,12 @@ Now I am looking for a job. If you are interested in my technology stack and ski
       </a>
       <br>Prisma
     </td>
+          <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="Graphql" />
+      </a>
+      <br>Graphql
+    </td>
   </tr> 
 </table>
 
