@@ -1,10 +1,6 @@
 <h1 align="center">Hi  👋, I'm Daniil</h1>
 <p>I am a React and Next.js developer from Ukraine. I am 22 years old. I graduated from university with a degree in Computer Science. At the same time, I completed 2.5 years of training at Step Academy, where I gained experience with many programming languages, such as JavaScript, TypeScript, C#, C++, Java, and PHP. That’s where I first learned about React.
 
-During my studies, this framework impressed me more than any other, so I decided to focus on learning it. When Next.js 14 was released, my existing knowledge of React made it easy to understand the new framework.
-
-Now I am looking for a job. If you are interested in my technology stack and skills, which you can see in my pinned projects, I would be happy to connect!</p>
-
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/DaniilBatiuk)**
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
